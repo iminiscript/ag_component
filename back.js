@@ -1,8 +1,11 @@
-export function backClick(element, remove, counter) {
+import { countUpdate } from './count';
+
+
+export function backClick(element, step) {
     element.addEventListener("click", function() {
+        console.log(element, step)
         const currentStep = window.location.search;
-        //console.log(currentStep);
-    
+        console.log(currentStep);
         const stepNum = Number(currentStep.substring(6));
         //console.log(stepNum);
     
@@ -27,7 +30,10 @@ export function backClick(element, remove, counter) {
     
         });
 
-        remove;
-        counter;
+        if (updateState === '?step-0') {
+            element.classList.add('hide');
+            step.classList.add('hide');
+        }
+        countUpdate();
     })
 }
