@@ -1,7 +1,8 @@
-export function startClick(element, step, backs, start) {
+export function startClick(element, step, backs) {
     element.forEach( btn => {
+        console.log('Clicked');
         btn.addEventListener("click", function(e) {
-            e.preventDefault();
+            console.log('Clicked');
             const stepName = this.parentElement.nextElementSibling.dataset.url;
             //console.log(stepName)
             step.classList.remove('hide');
@@ -12,7 +13,5 @@ export function startClick(element, step, backs, start) {
             //console.log(window.history);
             // countUpdate('.js-count li');
         })
-
-        start;
     })
 }
