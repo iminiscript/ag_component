@@ -1,0 +1,776 @@
+{
+  "topImage": {
+    "url": "https://athletic-greens-new.cdn.prismic.io/athletic-greens-new/27f23813-f227-4006-befc-41cb6e5e7ea7_ag.svg",
+    "alt": null,
+    "copyright": null,
+    "width": 66,
+    "height": 36
+  },
+  "topText": "Build Your Bundle",
+  "step1Heading": "How do you like your AG1?",
+  "step2Heading": "Choose Your Amount:",
+  "step3Heading": "Confirm Your Selection:",
+  "buttonLabel": "Next",
+  "buttonLabelStep3": "Checkout",
+  "giftsLabelPositive": "Bonus Gifts",
+  "giftsLabelNegative": "Welcome Discount",
+  "shippingLabel": "Shipping",
+  "shippingValueUs": 9,
+  "subtotalLabel": "Subtotal",
+  "bottomImage": {
+    "url": "https://athletic-greens-new.cdn.prismic.io/athletic-greens-new/0cc8cdc5-f131-40da-8340-1701042b6c66_world.svg",
+    "alt": null,
+    "copyright": null,
+    "width": 35,
+    "height": 35
+  },
+  "bottomText": "<p>We offset carbon <strong>emissions </strong>on <a  href=\"/ingredients/en\">every (test link)</a> shipment.</p>",
+  "step0Items": [
+    {
+      "type": "Step 1",
+      "banner": null,
+      "subheading": "AG1 Pouch",
+      "description": "<p>Made up of 75 premium <a  href=\"https://modal/ingredients\">ingredients</a>, AG1 provides you with daily nutrients, long-term gut health support and so much more. All in one convenient daily scoop.</p>",
+      "imageMobile": {
+        "url": "https://images.prismic.io/athletic-greens-new/3f0042d3-0c1d-456d-bdc8-4817eae09fbd_croppedotp920x600.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 920,
+        "height": 459
+      },
+      "imageDesktop": {
+        "url": "https://images.prismic.io/athletic-greens-new/3f0042d3-0c1d-456d-bdc8-4817eae09fbd_croppedotp920x600.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 920,
+        "height": 459
+      },
+      "viewId": "pouch",
+      "productName": "The Pouch",
+      "productNameLong": null,
+      "productDescription": "30 servings in one eco-friendly pouch.",
+      "descriptionForStep3": [],
+      "productsVariantsUs": null,
+      "giftsValueUs": 22
+    },
+    {
+      "type": "Step 1",
+      "banner": null,
+      "subheading": "AG1 Travel Packs",
+      "description": "<p>When you’re on the go, AG1 Travel Packs provide you with daily nutrients, gut health support and so much more – so you can thrive no matter where you are.</p>",
+      "imageMobile": {
+        "url": "https://images.prismic.io/athletic-greens-new/93ab2190-aed2-4a96-b284-dc866d68441b_cropped_onetime_pack.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 835,
+        "height": 402
+      },
+      "imageDesktop": {
+        "url": "https://images.prismic.io/athletic-greens-new/93ab2190-aed2-4a96-b284-dc866d68441b_cropped_onetime_pack.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 835,
+        "height": 402
+      },
+      "viewId": "travel-packs",
+      "productName": "Travel Packs",
+      "productNameLong": null,
+      "productDescription": "30 individual serving packs to take on the go.",
+      "descriptionForStep3": "<p></p>",
+      "productsVariantsUs": null,
+      "giftsValueUs": 22
+    }
+  ],
+  "step1View0Items": [
+    {
+      "type": "Step 2 - View 1",
+      "banner": "Most Popular",
+      "subheading": "Free Welcome Bundle Includes:",
+      "description": "<p>Premium canister, shaker, 5 travel packs.</p>",
+      "imageMobile": {
+        "url": "https://images.prismic.io/athletic-greens-new/6e3a5359-8855-414d-819c-9c645cb1c289_Single+Subscription+-+Pouch%2BD3K2_560x475.png?auto=compress,format",
+        "alt": "AG1 Athletic Greens Single Subscription and D3+K2 Vitamin Drops",
+        "copyright": null,
+        "width": 560,
+        "height": 475
+      },
+      "imageDesktop": {
+        "url": "https://images.prismic.io/athletic-greens-new/46fd8f10-ccb6-4168-9b56-7e5796bead5e_cropped_single_pouch.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 897,
+        "height": 464
+      },
+      "viewId": null,
+      "productName": "Single Monthly",
+      "productNameLong": null,
+      "productDescription": "30 servings of AG1 delivered monthly.",
+      "descriptionForStep3": "<p></p>",
+      "productsVariantsUs": "39391362187362:one-time",
+      "giftsValueUs": 21,
+      "isLegacy": true,
+      "price": 99,
+      "showPrice": 99,
+      "savePercentage": "0%",
+      "saveAmount": 0,
+      "products": [
+        {
+          "id": "6583801675874",
+          "title": "AG1 Pouch",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "39391362187362",
+              "title": "30 Day Supply / Ships Once",
+              "price": 99,
+              "sku": "GR10105",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/single_pouch_80f41d16-b317-406b-8f26-ba9ed8c5fa2a.png?v=1635989569"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Name",
+                  "value": "30 Day Supply"
+                },
+                {
+                  "name": "Type",
+                  "value": "Ships Once"
+                }
+              ]
+            }
+          ],
+          "variantId": "39391362187362",
+          "price": 99,
+          "quantity": 1,
+          "upscribeMetafields": {
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60,90",
+            "enable_subscription": "1",
+            "discount_amount": "0%"
+          },
+          "type": "one-time"
+        }
+      ]
+    },
+    {
+      "type": "Step 2 - View 1",
+      "banner": "Most Popular",
+      "subheading": "Free Welcome Bundle Includes:",
+      "description": "<p>Premium canister, shaker, 5 travel packs.</p>",
+      "imageMobile": {
+        "url": "https://images.prismic.io/athletic-greens-new/abefd12a-566b-455c-b5ae-b28380816382_Single+Subscription+-+Travel+Pack%2BD3K2_560x475.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 1120,
+        "height": 950
+      },
+      "imageDesktop": {
+        "url": "https://images.prismic.io/athletic-greens-new/abefd12a-566b-455c-b5ae-b28380816382_Single+Subscription+-+Travel+Pack%2BD3K2_560x475.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 1120,
+        "height": 950
+      },
+      "viewId": null,
+      "productName": "Single Monthly",
+      "productNameLong": null,
+      "productDescription": "30 servings of AG1 delivered monthly.",
+      "descriptionForStep3": [],
+      "productsVariantsUs": "39391362089058, 18518447390818:one-time",
+      "giftsValueUs": 20,
+      "isLegacy": true,
+      "price": 79,
+      "showPrice": 79,
+      "savePercentage": "0%",
+      "saveAmount": 0,
+      "allPaidFrequency": 30,
+      "products": [
+        {
+          "id": "6583801675874",
+          "title": "AG1 Pouch",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "39391362089058",
+              "title": "30 Day Supply / Subscription",
+              "price": 79,
+              "sku": "GR10105",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/single_pouch_80f41d16-b317-406b-8f26-ba9ed8c5fa2a.png?v=1635989569"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Name",
+                  "value": "30 Day Supply"
+                },
+                {
+                  "name": "Type",
+                  "value": "Subscription"
+                }
+              ]
+            }
+          ],
+          "variantId": "39391362089058",
+          "price": 79,
+          "quantity": 1,
+          "upscribeMetafields": {
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60,90",
+            "enable_subscription": "1",
+            "discount_amount": "0%"
+          },
+          "prismicData": {
+            "id": 39391362089058,
+            "name": "Single Monthly Subscription",
+            "description": "30 Day Supply of AG1"
+          },
+          "type": "subscription",
+          "frequency": 30
+        },
+        {
+          "id": "1962369319010",
+          "title": "AG1 Travel Packs (5 Count)",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "18518447390818",
+              "title": "5 Individual Servings / Free Gift (Ships Once)",
+              "price": 0,
+              "sku": "GR10504",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/5pack_8850db9f-7956-4f3a-b1da-55308af342ae.png?v=1635989903"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Name",
+                  "value": "5 Individual Servings"
+                },
+                {
+                  "name": "Type",
+                  "value": "Free Gift (Ships Once)"
+                }
+              ]
+            }
+          ],
+          "variantId": "18518447390818",
+          "price": 0,
+          "quantity": 1,
+          "upscribeMetafields": {
+            "discount_amount": "0%",
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60",
+            "enable_subscription": "1"
+          },
+          "websiteMetafields": {
+            "marketing_price": "19.0"
+          },
+          "type": "one-time"
+        }
+      ]
+    },
+    {
+      "type": "Step 2 - View 1",
+      "banner": null,
+      "subheading": "Buy Once",
+      "description": "<p>Try a one-time purchase of AG1. If you love it, you can upgrade to a subscription anytime!</p>",
+      "imageMobile": {
+        "url": "https://images.prismic.io/athletic-greens-new/5394a6dc-0a11-4ea5-80ac-95be8893dd98_structured-data-pouch.png?auto=compress,format",
+        "alt": "AG1 Athletic Greens Pouch 30-Day Supply",
+        "copyright": null,
+        "width": 1000,
+        "height": 1000
+      },
+      "imageDesktop": {
+        "url": "https://images.prismic.io/athletic-greens-new/5394a6dc-0a11-4ea5-80ac-95be8893dd98_structured-data-pouch.png?auto=compress,format",
+        "alt": "AG1 Athletic Greens Pouch 30-Day Supply",
+        "copyright": null,
+        "width": 1000,
+        "height": 1000
+      },
+      "viewId": null,
+      "productName": "Buy Once",
+      "productNameLong": null,
+      "productDescription": "30 servings of AG1 delivered once.",
+      "descriptionForStep3": [],
+      "productsVariantsUs": "2:39391362121826,31193400410210:one-time, 18518447390818:one-time",
+      "giftsValueUs": 21,
+      "isLegacy": true,
+      "price": 149,
+      "showPrice": 149,
+      "savePercentage": "0%",
+      "saveAmount": 0,
+      "allPaidFrequency": 30,
+      "products": [
+        {
+          "id": "6583801675874",
+          "title": "AG1 Pouch",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "39391362121826",
+              "title": "30 Days Supply Per Pouch / Two Pouches",
+              "price": 74.5,
+              "sku": "GR10105",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/single_pouch_80f41d16-b317-406b-8f26-ba9ed8c5fa2a.png?v=1635989569"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Name",
+                  "value": "30 Days Supply Per Pouch"
+                },
+                {
+                  "name": "Type",
+                  "value": "Two Pouches"
+                }
+              ]
+            }
+          ],
+          "variantId": "39391362121826",
+          "price": 149,
+          "quantity": 2,
+          "upscribeMetafields": {
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60,90",
+            "enable_subscription": "1",
+            "discount_amount": "0%"
+          },
+          "type": "subscription",
+          "frequency": 30
+        },
+        {
+          "id": "2123128602722",
+          "title": "AG D3+K2",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "31193400410210",
+              "title": "1 Year Supply / Free Gift (Ships Once)",
+              "price": 0,
+              "sku": "D310302",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/vitamindrops_192dd16d-aca7-4052-89a4-27e0e5875deb.png?v=1635989737"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Frecuency",
+                  "value": "1 Year Supply / Free Gift (Ships Once)"
+                }
+              ]
+            }
+          ],
+          "variantId": "31193400410210",
+          "price": 0,
+          "quantity": 1,
+          "upscribeMetafields": {
+            "discount_amount": "0%",
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60",
+            "enable_subscription": "1"
+          },
+          "websiteMetafields": {
+            "marketing_price": "14.0"
+          },
+          "type": "one-time"
+        },
+        {
+          "id": "1962369319010",
+          "title": "AG1 Travel Packs (5 Count)",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "18518447390818",
+              "title": "5 Individual Servings / Free Gift (Ships Once)",
+              "price": 0,
+              "sku": "GR10504",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/5pack_8850db9f-7956-4f3a-b1da-55308af342ae.png?v=1635989903"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Name",
+                  "value": "5 Individual Servings"
+                },
+                {
+                  "name": "Type",
+                  "value": "Free Gift (Ships Once)"
+                }
+              ]
+            }
+          ],
+          "variantId": "18518447390818",
+          "price": 0,
+          "quantity": 1,
+          "upscribeMetafields": {
+            "discount_amount": "0%",
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60",
+            "enable_subscription": "1"
+          },
+          "websiteMetafields": {
+            "marketing_price": "19.0"
+          },
+          "type": "one-time"
+        }
+      ]
+    }
+  ],
+  "step1View1Items": [
+    {
+      "type": "Step 2 - View 2",
+      "banner": "Best Value",
+      "subheading": "Free Welcome Bundle Includes:",
+      "description": "<p>Premium canister, 2 shakers, 5 travel packs, <br />year’s supply vitamin D3+K2 drops.</p>",
+      "imageMobile": {
+        "url": "https://images.prismic.io/athletic-greens-new/2112dd35-dde9-417b-9de9-09dcc31d3497_cropped_double_pouch.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 981,
+        "height": 487
+      },
+      "imageDesktop": {
+        "url": "https://images.prismic.io/athletic-greens-new/b03d3321-0c8a-4eca-a009-a95e6c47620f_Double+Subscription+-+Pouch%2BD3K2%2B5CT_560x475.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 1120,
+        "height": 950
+      },
+      "viewId": null,
+      "productName": "Double Monthly",
+      "productNameLong": null,
+      "productDescription": "Double Monthly",
+      "descriptionForStep3": [],
+      "productsVariantsUs": "39391367004258:one-time",
+      "giftsValueUs": 22,
+      "isLegacy": true,
+      "price": 109,
+      "showPrice": 109,
+      "savePercentage": "0%",
+      "saveAmount": 0,
+      "products": [
+        {
+          "id": "6583803478114",
+          "title": "AG1 Travel Packs (30 Count)",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "39391367004258",
+              "title": "30 Day Supply / Ships Once",
+              "price": 109,
+              "sku": "GR10404",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/Shopify_OTP_-_30ct_200x200_96acc30b-e6d5-453a-a80c-cd7d82c48852.png?v=1632302183"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Name",
+                  "value": "30 Day Supply"
+                },
+                {
+                  "name": "Type",
+                  "value": "Ships Once"
+                }
+              ]
+            }
+          ],
+          "variantId": "39391367004258",
+          "price": 109,
+          "quantity": 1,
+          "upscribeMetafields": {
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60,90",
+            "enable_subscription": "1",
+            "discount_amount": "0%"
+          },
+          "type": "one-time"
+        }
+      ]
+    },
+    {
+      "type": "Step 2 - View 2",
+      "banner": "Best Value",
+      "subheading": "Free Welcome Bundle Includes:",
+      "description": "<p>Premium canister, 2 shakers, 5 travel packs, <br />year’s supply vitamin D3+K2 drops.</p>",
+      "imageMobile": {
+        "url": "https://images.prismic.io/athletic-greens-new/60ba9a9f-cc5e-4714-b913-526587c251bb_Double+Subscription+-+Pouch%2B10CT_560x475.png?auto=compress,format",
+        "alt": "AG1 Athletic Greens Double Subscription and Travel Packs",
+        "copyright": null,
+        "width": 560,
+        "height": 475
+      },
+      "imageDesktop": {
+        "url": "https://images.prismic.io/athletic-greens-new/b03d3321-0c8a-4eca-a009-a95e6c47620f_Double+Subscription+-+Pouch%2BD3K2%2B5CT_560x475.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 1120,
+        "height": 950
+      },
+      "viewId": null,
+      "productName": "Best Value",
+      "productNameLong": null,
+      "productDescription": "60 servings of AG1 delivered monthly.",
+      "descriptionForStep3": [],
+      "productsVariantsUs": "39391366938722,18518447390818:one-time",
+      "giftsValueUs": 20,
+      "isLegacy": true,
+      "price": 89,
+      "showPrice": 89,
+      "savePercentage": "0%",
+      "saveAmount": 0,
+      "allPaidFrequency": 30,
+      "products": [
+        {
+          "id": "6583803478114",
+          "title": "AG1 Travel Packs (30 Count)",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "39391366938722",
+              "title": "30 Day Supply / Subscription",
+              "price": 89,
+              "sku": "GR10404",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/Shopify_OTP_-_30ct_200x200_96acc30b-e6d5-453a-a80c-cd7d82c48852.png?v=1632302183"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Name",
+                  "value": "30 Day Supply"
+                },
+                {
+                  "name": "Type",
+                  "value": "Subscription"
+                }
+              ]
+            }
+          ],
+          "variantId": "39391366938722",
+          "price": 89,
+          "quantity": 1,
+          "upscribeMetafields": {
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60,90",
+            "enable_subscription": "1",
+            "discount_amount": "0%"
+          },
+          "type": "subscription",
+          "frequency": 30
+        },
+        {
+          "id": "1962369319010",
+          "title": "AG1 Travel Packs (5 Count)",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "18518447390818",
+              "title": "5 Individual Servings / Free Gift (Ships Once)",
+              "price": 0,
+              "sku": "GR10504",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/5pack_8850db9f-7956-4f3a-b1da-55308af342ae.png?v=1635989903"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Name",
+                  "value": "5 Individual Servings"
+                },
+                {
+                  "name": "Type",
+                  "value": "Free Gift (Ships Once)"
+                }
+              ]
+            }
+          ],
+          "variantId": "18518447390818",
+          "price": 0,
+          "quantity": 1,
+          "upscribeMetafields": {
+            "discount_amount": "0%",
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60",
+            "enable_subscription": "1"
+          },
+          "websiteMetafields": {
+            "marketing_price": "19.0"
+          },
+          "type": "one-time"
+        }
+      ]
+    },
+    {
+      "type": "Step 2 - View 2",
+      "banner": null,
+      "subheading": "Buy Once",
+      "description": "<p>Try a one-time purchase of AG1. If you love it, you can upgrade to a subscription anytime!</p>",
+      "imageMobile": {
+        "url": "https://images.prismic.io/athletic-greens-new/9947fddb-14bd-4ab0-b500-2b32dfd25a3d_One+Time+Purchase+-+Travel+Pack_560x475.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 1120,
+        "height": 950
+      },
+      "imageDesktop": {
+        "url": "https://images.prismic.io/athletic-greens-new/9947fddb-14bd-4ab0-b500-2b32dfd25a3d_One+Time+Purchase+-+Travel+Pack_560x475.png?auto=compress,format",
+        "alt": null,
+        "copyright": null,
+        "width": 1120,
+        "height": 950
+      },
+      "viewId": null,
+      "productName": "Buy Once",
+      "productNameLong": null,
+      "productDescription": "30 servings of AG1 delivered once.",
+      "descriptionForStep3": [],
+      "productsVariantsUs": "2:39391367037026,31193400410210:one-time, 18518447390818:one-time",
+      "giftsValueUs": 20,
+      "isLegacy": true,
+      "price": 169,
+      "showPrice": 169,
+      "savePercentage": "0%",
+      "saveAmount": 0,
+      "allPaidFrequency": 30,
+      "products": [
+        {
+          "id": "6583803478114",
+          "title": "AG1 Travel Packs (30 Count)",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "39391367037026",
+              "title": "30 Days Supply Per Pouch / Subscription",
+              "price": 84.5,
+              "sku": "GR10404",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/Shopify_OTP_-_30ct_200x200_96acc30b-e6d5-453a-a80c-cd7d82c48852.png?v=1632302183"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Name",
+                  "value": "30 Days Supply Per Pouch"
+                },
+                {
+                  "name": "Type",
+                  "value": "Subscription"
+                }
+              ]
+            }
+          ],
+          "variantId": "39391367037026",
+          "price": 169,
+          "quantity": 2,
+          "upscribeMetafields": {
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60,90",
+            "enable_subscription": "1",
+            "discount_amount": "0%"
+          },
+          "prismicData": {
+            "id": 39391367037026,
+            "name": "Double Monthly Subscription",
+            "description": "30 Day Supply Per Box"
+          },
+          "type": "subscription",
+          "frequency": 30
+        },
+        {
+          "id": "2123128602722",
+          "title": "AG D3+K2",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "31193400410210",
+              "title": "1 Year Supply / Free Gift (Ships Once)",
+              "price": 0,
+              "sku": "D310302",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/vitamindrops_192dd16d-aca7-4052-89a4-27e0e5875deb.png?v=1635989737"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Frecuency",
+                  "value": "1 Year Supply / Free Gift (Ships Once)"
+                }
+              ]
+            }
+          ],
+          "variantId": "31193400410210",
+          "price": 0,
+          "quantity": 1,
+          "upscribeMetafields": {
+            "discount_amount": "0%",
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60",
+            "enable_subscription": "1"
+          },
+          "websiteMetafields": {
+            "marketing_price": "14.0"
+          },
+          "type": "one-time"
+        },
+        {
+          "id": "1962369319010",
+          "title": "AG1 Travel Packs (5 Count)",
+          "vendor": "Athletic Greens",
+          "variants": [
+            {
+              "id": "18518447390818",
+              "title": "5 Individual Servings / Free Gift (Ships Once)",
+              "price": 0,
+              "sku": "GR10504",
+              "availableForSale": true,
+              "compareAtPrice": null,
+              "image": {
+                "transformedSrc": "https://cdn.shopify.com/s/files/1/1523/4600/products/5pack_8850db9f-7956-4f3a-b1da-55308af342ae.png?v=1635989903"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Name",
+                  "value": "5 Individual Servings"
+                },
+                {
+                  "name": "Type",
+                  "value": "Free Gift (Ships Once)"
+                }
+              ]
+            }
+          ],
+          "variantId": "18518447390818",
+          "price": 0,
+          "quantity": 1,
+          "upscribeMetafields": {
+            "discount_amount": "0%",
+            "interval_unit": "day",
+            "interval_frequency": "15,30,45,60",
+            "enable_subscription": "1"
+          },
+          "websiteMetafields": {
+            "marketing_price": "19.0"
+          },
+          "type": "one-time"
+        }
+      ]
+    }
+  ]
+}
