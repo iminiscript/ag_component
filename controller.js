@@ -6,10 +6,11 @@ import StepTwo from './views/stepTwo';
 import { startClick } from './startClick';
 import { tabs } from './tabs';
 import { backClick } from './back';
+import json from './product.json'
 
 
 const init = function() {
-
+    console.log(json)
     if (window.location.search === '') {
         window.history.pushState("", "", `/?step-0`);
     }
