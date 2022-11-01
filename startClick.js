@@ -1,8 +1,10 @@
+import { countUpdate } from './count';
+
 export function startClick(element, step, backs) {
     element.forEach( btn => {
-        console.log('Clicked');
         btn.addEventListener("click", function(e) {
-            console.log('Clicked');
+            e.preventDefault();
+            console.log(btn)
             const stepName = this.parentElement.nextElementSibling.dataset.url;
             //console.log(stepName)
             step.classList.remove('hide');
@@ -12,6 +14,7 @@ export function startClick(element, step, backs) {
             window.history.pushState("", "", stepName);
             //console.log(window.history);
             // countUpdate('.js-count li');
+            countUpdate();
         })
     })
 }
