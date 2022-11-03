@@ -16,17 +16,30 @@ const init = function() {
     }
 
    StepZero.startingPoint('#app');
-   StepOne.startStepOne('#app');
-   StepTwo.startStepTwo('#app');
+   StepOne.startStepOne('#step_1');
+   StepTwo.startStepTwo('#step_2');
 
    const startBtn = document.querySelectorAll('.js-start');
    const steps = document.querySelector('.js-count');
    const back = document.querySelector('.js-back');
-   const tile = document.querySelectorAll('.c-planTile');
+   const tab = document.querySelectorAll('[data-value]');
+   const tabInfos = document.querySelectorAll('[data-info]')
    
    startClick(startBtn,  steps, back);
-   tabs(tile)
+   tabs(tab, tabInfos)
    backClick(back, steps);
+
+    async function test(evt) {
+        try {
+            const jsonData = await fetch('../product.json');
+
+            const jsonRes = await jsonData.json();
+
+            console.log(jsonRes)
+        } catch (err) {
+            console.log(err)
+        }
+   }
 }
 
 init();

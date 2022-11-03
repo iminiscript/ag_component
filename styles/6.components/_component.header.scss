@@ -9,8 +9,8 @@
     margin:  0 auto;
     background-color: #DAE7D4;
     padding: 20px;
-    // min-height: 800px;
-    // background-image: url('./public/bg_main.png');
+    min-height: 700px;
+    //background-image: url('./public/bg_step_1.png');
     background-size: cover;
     background-position: center;
     
@@ -19,7 +19,7 @@
 .c-header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .c-backArrow {
@@ -76,7 +76,7 @@
     }
 }
 
-.c-plan {
+.c-plan, .c-stepBlock {
     display: flex;
     justify-content: center;
 }
@@ -131,6 +131,45 @@
     text-decoration: none;
     font-weight: 700;
     margin:  0 auto;
+}
+
+.c-titleMain {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.c-stepZero__title {
+    color: #ffffff;
+    font-size: 54px;
+    text-align: center;
+    padding: 0 70px 20px;
+
+}
+
+.c-stepZero {
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    justify-content: center;
+
+    .c-btn {
+        width: 100%;
+    }
+}
+.c-product, 
+.c-planDetails {
+    display: none;
+}
+.c-stepInside.active {
+    .c-product, 
+    .c-planDetails {
+        display: block;
+    }
+
+    .c-stepProduct {
+        background-color: #2F7D39;
+        
+    }
 }
 
 
